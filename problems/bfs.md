@@ -14,7 +14,7 @@ BFS基本模板：
 - 基于树的BFS：不需要专门一个set来记录访问过的节点
 
 ## 练习
-- [ ] Leetcode 102 Binary Tree Level Order Traversal
+- [x] Leetcode 102 二叉树的层序遍历（★★）(👍👍👍)
 - [ ] Leetcode 103 Binary Tree Zigzag Level Order Traversal
 - [ ] Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
 - [ ] Leetcode 314 Binary Tree Vertical Order Traversal
