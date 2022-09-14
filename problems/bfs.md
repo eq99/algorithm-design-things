@@ -33,7 +33,14 @@ BFS基本模板：
   - Leetcode 542. 01 Matrix
   - Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination
   - Leetcode 417. Pacific Atlantic Water Flow
-## 拓扑排序：（[https://zh.wikipedia.org/wiki/%E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/拓撲排序)）
+
+## 拓扑排序
+
+- 根据依赖关系，构建邻接表、入度数组。把入度为零的结点加入待处理队列中。
+- 从待处理队列中弹出一个结点，根据邻接表，减小依赖它的结点的入度。
+- 如果入度变为 0， 将该结点加入到待处理队列中，重复第 2 步。
+- 直至待处理队列长度为零 0，得到一个拓扑排序。如果还有结点的入度大于 0，说明图中存在环。
+
 - [x] Leetcode 207. 课程表（★★）(👍👍👍)
 - [ ] Leetcode 444 Sequence Reconstruction
 - [ ] Leetcode 269 Alien Dictionary
