@@ -41,6 +41,8 @@ BFS基本模板：
 - 如果入度变为 0， 将该结点加入到待处理队列中，重复第 2 步。
 - 直至待处理队列长度为零 0，得到一个拓扑排序。如果还有结点的入度大于 0，说明图中存在环。
 
+## 练习
+
 - [x] Leetcode 207. 课程表（★★）(👍👍👍)
 - [ ] Leetcode 444 Sequence Reconstruction
 - [ ] Leetcode 269 Alien Dictionary
