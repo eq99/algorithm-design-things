@@ -14,7 +14,7 @@ BFS基本模板：
 - 基于树的BFS：不需要专门一个set来记录访问过的节点
 
 ## 练习
-- [x] Leetcode 102 二叉树的层序遍历（★★）(👍👍👍)
+- [x] Leetcode 102. 二叉树的层序遍历（★★）(👍👍👍)
 - [ ] Leetcode 103 Binary Tree Zigzag Level Order Traversal
 - [ ] Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
 
@@ -33,9 +33,9 @@ BFS基本模板：
   - Leetcode 542. 01 Matrix
   - Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination
   - Leetcode 417. Pacific Atlantic Water Flow
-- 拓扑排序：（[https://zh.wikipedia.org/wiki/%E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/拓撲排序)）
-- - Leetcode 207 Course Schedule （I, II）
-  - Leetcode 444 Sequence Reconstruction
-  - Leetcode 269 Alien Dictionary
-  - Leetcode 310 Minimum Height Trees
-  - Leetcode 366 Find Leaves of Binary Tree
+## 拓扑排序：（[https://zh.wikipedia.org/wiki/%E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/拓撲排序)）
+- [x] Leetcode 207. 课程表（★★）(👍👍👍)
+- [ ] Leetcode 444 Sequence Reconstruction
+- [ ] Leetcode 269 Alien Dictionary
+- [ ] Leetcode 310 Minimum Height Trees
+- [ ] Leetcode 366 Find Leaves of Binary Tree
