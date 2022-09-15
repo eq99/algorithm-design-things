@@ -6,19 +6,19 @@
   - 除了遍历之外多数情况下时间复杂度是指数级别，一般是O(方案数×找到每个方案的时间复杂度)
   - 递归题目都可以用非递归迭代的方法写，但一般实现起来非常麻烦
 - 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
-- - Leetcode 543 Diameter of Binary Tree (分治)
-  - Leetcode 124 Binary Tree Maximum Path Sum (分治)
-  - Leetcode 226 Invert Binary Tree (分治)
-  - Leetcode 101 Symmetric Tree (回溯 or 分治)
-  - Leetcode 951 Flip Equivalent Binary Trees (分治)
-  - Leetcode 236 Lowest Common Ancestor of a Binary Tree (相似题：235、1650) (回溯 or 分治)
-  - Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
-  - Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
-  - Leetcode 987 Vertical Order Traversal of a Binary Tree
-  - Leetcode 1485 Clone Binary Tree With Random Pointer
-  - Leetcode 572 Subtree of Another Tree (分治)
-  - Leetcode 863 All Nodes Distance K in Binary Tree
-  - Leetcode 1110 Delete Nodes And Return Forest (分治)
+- [x] Leetcode 543. 二叉树的直径（★）(👍👍👍)
+- Leetcode 124 Binary Tree Maximum Path Sum (分治)
+- Leetcode 226 Invert Binary Tree (分治)
+- Leetcode 101 Symmetric Tree (回溯 or 分治)
+- Leetcode 951 Flip Equivalent Binary Trees (分治)
+- Leetcode 236 Lowest Common Ancestor of a Binary Tree (相似题：235、1650) (回溯 or 分治)
+- Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
+- Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
+- Leetcode 987 Vertical Order Traversal of a Binary Tree
+- Leetcode 1485 Clone Binary Tree With Random Pointer
+- Leetcode 572 Subtree of Another Tree (分治)
+- Leetcode 863 All Nodes Distance K in Binary Tree
+- Leetcode 1110 Delete Nodes And Return Forest (分治)
 - 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
 - - Leetcode 230 Kth Smallest element in a BST
   - Leetcode 98 Validate Binary Search Tree
