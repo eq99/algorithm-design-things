@@ -7,7 +7,7 @@
   - 递归题目都可以用非递归迭代的方法写，但一般实现起来非常麻烦
 - 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
 - [x] Leetcode 543. 二叉树的直径（★）(👍👍👍)
-- Leetcode 124 Binary Tree Maximum Path Sum (分治)
+- [x] Leetcode 124. 二叉树中的最大路径和 (★★)(👍👍👍)
 - Leetcode 226 Invert Binary Tree (分治)
 - Leetcode 101 Symmetric Tree (回溯 or 分治)
 - Leetcode 951 Flip Equivalent Binary Trees (分治)
